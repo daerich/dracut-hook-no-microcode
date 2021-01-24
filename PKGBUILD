@@ -1,12 +1,11 @@
 # Maintainer: daerich <daerich.users.sourceforge.net>
-# Original Maintainers:
-# Maintainer: Franklyn Tackitt <franklyn@tackitt.net>
-# Maintainer: Kevin Del Castillo <quebin31@gmail.com>
+# Contributor: Franklyn Tackitt <franklyn@tackitt.net>
+# Contributor: Kevin Del Castillo <quebin31@gmail.com>
 
-pkgname=dracut-hook
+pkgname=dracut-hook-no-microcode
 pkgver=0.4.2
 pkgrel=1
-pkgdesc="Install/remove hooks for dracut"
+pkgdesc="Install/remove hooks for dracut - no microcode convenience package"
 url=https://dracut.wiki.kernel.org/index.php/Main_Page
 arch=('any')
 license=('BSD')
