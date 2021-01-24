@@ -1,4 +1,4 @@
-# Maintainer daerich <daerich.users.sourceforge.net>
+# Maintainer: daerich <daerich.users.sourceforge.net>
 # Original Maintainers:
 # Maintainer: Franklyn Tackitt <franklyn@tackitt.net>
 # Maintainer: Kevin Del Castillo <quebin31@gmail.com>
